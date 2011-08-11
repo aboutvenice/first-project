@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class Main extends MovieClip {				var tag:int=4		var showPic:String						public function Main() {			// constructor code			trace("this is still going to create showPic")								}	}	}
+﻿package  {		import flash.display.MovieClip;			public class Main extends MovieClip {				var tag:int=4		var showPic:String						public function Main() {			// constructor code			trace("this is still going to create showPic    2")			trace("show pic")								}	}	}
