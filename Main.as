@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class Main extends MovieClip {				var tag:int=2						public function Main() {			// constructor code		}	}	}
+﻿package  {		import flash.display.MovieClip;			public class Main extends MovieClip {				var tag:int=200						public function Main() {			// constructor code		}	}	}
