@@ -1,1 +1,0 @@
-﻿package  {		import flash.display.MovieClip;			public class Main extends MovieClip {				var tag:int=1						public function Main() {			// constructor code									trace(tag)																	}	}	}
